@@ -1,3 +1,9 @@
+/**
+ * 
+ * @param a minuendo
+ * @param b sustraendo
+ * @returns Diferencia
+ */
 function resta(a: number, b: number): number {
     return a - b;
 }
